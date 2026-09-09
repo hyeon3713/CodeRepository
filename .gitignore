@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Runtime data written by the API server
+server/data/
